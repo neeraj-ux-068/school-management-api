@@ -1,0 +1,27 @@
+{
+	"info": {
+		"_postman_id": "e8ee00e4-7350-43a3-8bf5-03c07f34da7b",
+		"name": "New Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "45267167",
+		"_collection_link": "https://neeraj-53826.postman.co/workspace/neeraj's-Workspace~e5c104d0-a7cd-4887-8f05-7a7f33cf3cf3/collection/45267167-e8ee00e4-7350-43a3-8bf5-03c07f34da7b?action=share&source=collection_link&creator=45267167"
+	},
+	"item": [
+		{
+			"name": "addSchool",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "listSchools",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
